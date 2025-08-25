@@ -55,13 +55,13 @@ function App() {
             </div>
 
             <p className="text-xl md:text-2xl text-gray-700 mb-6 font-medium">
-              Hey bestie, I know I messed up...
+              Hey , I know I messed up...
             </p>
             
             <p className="text-lg text-gray-600 mb-8 leading-relaxed max-w-2xl mx-auto">
               You're such an amazing friend, and I hate that I hurt you. I promise to do better, 
               to listen more, and to be the friend you deserve. 
-              Krisha Jiiii, did you forgive me?? 🥺
+              , did you forgive me?? 🥺
             </p>
           </div>
 
